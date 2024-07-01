@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "first_name": "Frank",
+      "last_name": "Nguyen",
+      "initial_salary": 60000,
+      "salary_2016": 69000,
+      "total_reviews": 0
+    },
+    {
+      "first_name": "Nancy",
+      "last_name": "Soley",
+      "initial_salary": 30000,
+      "salary_2016": 52470.1875,
+      "total_reviews": 1
+    },
+    {
+      "first_name": "Joe",
+      "last_name": "Jarrod",
+      "initial_salary": 20000,
+      "salary_2016": 46261.2153125,
+      "total_reviews": 3
+    },
+    {
+      "first_name": "Keith",
+      "last_name": "Widjaja",
+      "initial_salary": 20000,
+      "salary_2016": 30417.5,
+      "total_reviews": 0
+    },
+    {
+      "first_name": "Kelly",
+      "last_name": "Smalls",
+      "initial_salary": 20000,
+      "salary_2016": 30417.5,
+      "total_reviews": 0
+    },
+    {
+      "first_name": "Bob",
+      "last_name": "Smith",
+      "initial_salary": 10000,
+      "salary_2016": 26600.1988046875,
+      "total_reviews": 5
+    }
+  ]
+}

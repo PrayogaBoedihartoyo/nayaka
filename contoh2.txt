@@ -1,0 +1,10 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "first_name": "Bob",
+      "last_name": "Smith",
+      "hire_date": "0001-01-01T00:00:00Z"
+    }
+  ]
+}

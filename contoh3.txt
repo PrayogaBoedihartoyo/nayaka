@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "first_name": "Kelly",
+      "last_name": "Smalls",
+      "hire_date": "2013-09-10T00:00:00Z"
+    },
+    {
+      "first_name": "Keith",
+      "last_name": "Widjaja",
+      "hire_date": "2013-09-10T00:00:00Z"
+    },
+    {
+      "first_name": "Frank",
+      "last_name": "Nguyen",
+      "hire_date": "2015-04-10T00:00:00Z"
+    }
+  ]
+}
